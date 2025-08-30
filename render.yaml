@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: pinto-server
+    env: java
+    plan: free
+    buildCommand: ./gradlew build
+    startCommand: java -jar build/libs/PintoServer-*.jar
+    autoDeploy: true
+    envVars:
+      - key: PORT
+        value: 8080
